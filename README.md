@@ -1,6 +1,6 @@
 # Hi!! I'm snlx.
 
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning C
 
 
