@@ -1,7 +1,8 @@
-# Hi!! I'm snlx.
+# Hi!! I'm Carlos.
 
+- 👨‍💻 I'm 17 years old and i make some programs!
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning GoLang
 
 ##
 
