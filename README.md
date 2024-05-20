@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm 17 years old and i make some programs!
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Reverse Engineering
+- 🌱 I’m currently learning about Reverse Engineering
 
 ##
 
